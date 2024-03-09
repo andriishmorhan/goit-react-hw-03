@@ -1,0 +1,11 @@
+.searchContainer {
+    padding-left: 40px;
+}   
+.inputTitle {
+    margin-bottom: 5px;
+}
+.inputValue {
+width: 243px;
+border: solid black;
+border-radius: 5%;
+}

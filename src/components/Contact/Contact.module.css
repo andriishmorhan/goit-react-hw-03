@@ -1,0 +1,12 @@
+.contactList {
+border-radius: 3%;
+border: solid black ;
+padding: 5px;
+}
+.listBtn {
+background-color: lightgrey;
+color: black;
+padding: 5px;
+border-radius: 10%;
+border: solid gray;
+}
